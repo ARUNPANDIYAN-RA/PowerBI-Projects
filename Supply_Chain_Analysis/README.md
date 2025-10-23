@@ -38,7 +38,7 @@ The dataset consists of
 	
 ## Dashboard 📈
 
-	![Dashboard Image](./powerbi_screenshots/dash_scr_shot.png)
+	![Dashboard Image](../powerbi_screenshots/dash_scr_shot.png)
 	
 ---	
 	
