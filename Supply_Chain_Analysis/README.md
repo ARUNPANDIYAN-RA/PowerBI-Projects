@@ -1,4 +1,4 @@
-# Supply Chain Analysis 
+# Supply Chain Analysis 🚚 📦 🏭 🚢 ✈️
 
 ---
 
@@ -40,18 +40,29 @@ The dataset consists of
 ## Dashboards 📈
 
 ![Dashboard Image](https://raw.githubusercontent.com/ARUNPANDIYAN-RA/PowerBI-Projects/master/Supply_Chain_Analysis/powerbi_screenshots/dash_scr_shot.png)
+
 ---
 
 ![Image1](https://raw.githubusercontent.com/ARUNPANDIYAN-RA/PowerBI-Projects/master/Supply_Chain_Analysis/powerbi_screenshots/1.png)	
+---
 ![Image2](https://raw.githubusercontent.com/ARUNPANDIYAN-RA/PowerBI-Projects/master/Supply_Chain_Analysis/powerbi_screenshots/2.png)
+---
 ![Image3](https://raw.githubusercontent.com/ARUNPANDIYAN-RA/PowerBI-Projects/master/Supply_Chain_Analysis/powerbi_screenshots/3.png)
+---
 ![Image4](https://raw.githubusercontent.com/ARUNPANDIYAN-RA/PowerBI-Projects/master/Supply_Chain_Analysis/powerbi_screenshots/4.png)
+---
 ![Image5](https://raw.githubusercontent.com/ARUNPANDIYAN-RA/PowerBI-Projects/master/Supply_Chain_Analysis/powerbi_screenshots/5.png)
+---
 ![Image6](https://raw.githubusercontent.com/ARUNPANDIYAN-RA/PowerBI-Projects/master/Supply_Chain_Analysis/powerbi_screenshots/6.png)
+---
 ![Image7](https://raw.githubusercontent.com/ARUNPANDIYAN-RA/PowerBI-Projects/master/Supply_Chain_Analysis/powerbi_screenshots/7.png)
+---
 ![Image8](https://raw.githubusercontent.com/ARUNPANDIYAN-RA/PowerBI-Projects/master/Supply_Chain_Analysis/powerbi_screenshots/8.png)
+---
 ![Image9](https://raw.githubusercontent.com/ARUNPANDIYAN-RA/PowerBI-Projects/master/Supply_Chain_Analysis/powerbi_screenshots/9.png)
+---
 ![Image10](https://raw.githubusercontent.com/ARUNPANDIYAN-RA/PowerBI-Projects/master/Supply_Chain_Analysis/powerbi_screenshots/10.png)
+---
 ![Image11](https://raw.githubusercontent.com/ARUNPANDIYAN-RA/PowerBI-Projects/master/Supply_Chain_Analysis/powerbi_screenshots/11.png)
 
 ---	
@@ -74,7 +85,7 @@ With the preprocessing of data, using DAX measures have created Interactive dash
 •	Total Revenue is 2.29 million
 •	Overall Highest number of orders is from Kolkata
 •	Overall Lowest number of orders is from Delhi
-•	No of Product passed in quality check is 9045 products out of 46099 overall products
+•	No of Product passed in quality check is 9045 products out of 46099 overall products 📦
 •	Skincare products dominate with highest number of inventories.
 •	Skincare products sold in highest numbers while comparing to other products with 20731 skincare products with 42.91 % 
 •	Route C is the fastest shipping Route (Less Shipping Time) with generated Revenue as 379.32 K
@@ -84,7 +95,7 @@ With the preprocessing of data, using DAX measures have created Interactive dash
 •	Overall Defects with total production are 1.86 %
 •	Total no of products failed in Quality Check is 15610 Products
 •	Supplier 1 has highest no of product sold (11080 products) in which 4321 products passed quality checks.
-•	By the way of Road Transportation mode 32979 Products had been sold by which the profit is 51.90 K in which Skincare has the more production volume transported in Road. Chennai has gained highest number of Order Quantities by Road ways.
+•	By the way of Road Transportation mode 32979 Products had been sold by which the profit is 51.90 K in which Skincare has the more production volume transported in Road. Chennai has gained highest number of Order Quantities by Road ways 🚚.
 •	In the Customer Demographic, male is the more profit generator than female, non-binary and unknown.
 •	In the Location wise Chennai is the most profit generating Location based on Quantity of Order placed.
 
