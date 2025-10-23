@@ -9,6 +9,7 @@
 - [Queries and Analysis](#Queries-and-Analysis-💻)
 - [Dashboard](#Dashboard-💻)
 - [Technology Stack](#Technology-Stack-💻)
+- [Insights](#Insights-💻)
 
 ---
 
@@ -36,10 +37,23 @@ The dataset consists of
 	
 ---
 	
-## Dashboard 📈
+## Dashboards 📈
 
 ![Dashboard Image](https://raw.githubusercontent.com/ARUNPANDIYAN-RA/PowerBI-Projects/master/Supply_Chain_Analysis/powerbi_screenshots/dash_scr_shot.png)
-	
+---
+
+![Image1](https://raw.githubusercontent.com/ARUNPANDIYAN-RA/PowerBI-Projects/master/Supply_Chain_Analysis/powerbi_screenshots/1.png)	
+![Image2](https://raw.githubusercontent.com/ARUNPANDIYAN-RA/PowerBI-Projects/master/Supply_Chain_Analysis/powerbi_screenshots/2.png)
+![Image3](https://raw.githubusercontent.com/ARUNPANDIYAN-RA/PowerBI-Projects/master/Supply_Chain_Analysis/powerbi_screenshots/3.png)
+![Image4](https://raw.githubusercontent.com/ARUNPANDIYAN-RA/PowerBI-Projects/master/Supply_Chain_Analysis/powerbi_screenshots/4.png)
+![Image5](https://raw.githubusercontent.com/ARUNPANDIYAN-RA/PowerBI-Projects/master/Supply_Chain_Analysis/powerbi_screenshots/5.png)
+![Image6](https://raw.githubusercontent.com/ARUNPANDIYAN-RA/PowerBI-Projects/master/Supply_Chain_Analysis/powerbi_screenshots/6.png)
+![Image7](https://raw.githubusercontent.com/ARUNPANDIYAN-RA/PowerBI-Projects/master/Supply_Chain_Analysis/powerbi_screenshots/7.png)
+![Image8](https://raw.githubusercontent.com/ARUNPANDIYAN-RA/PowerBI-Projects/master/Supply_Chain_Analysis/powerbi_screenshots/8.png)
+![Image9](https://raw.githubusercontent.com/ARUNPANDIYAN-RA/PowerBI-Projects/master/Supply_Chain_Analysis/powerbi_screenshots/9.png)
+![Image10](https://raw.githubusercontent.com/ARUNPANDIYAN-RA/PowerBI-Projects/master/Supply_Chain_Analysis/powerbi_screenshots/10.png)
+![Image11](https://raw.githubusercontent.com/ARUNPANDIYAN-RA/PowerBI-Projects/master/Supply_Chain_Analysis/powerbi_screenshots/11.png)
+
 ---	
 	
 ## Technology Stack 💻
