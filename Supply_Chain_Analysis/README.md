@@ -38,7 +38,7 @@ The dataset consists of
 	
 ## Dashboard 📈
 
-	![Dashboard Image](../powerbi_screenshots/dash_scr_shot.png)
+![Dashboard Image](https://raw.githubusercontent.com/ARUNPANDIYAN-RA/PowerBI-Projects/master/Supply_Chain_Analysis/powerbi_screenshots/dash_scr_shot.png)
 	
 ---	
 	
