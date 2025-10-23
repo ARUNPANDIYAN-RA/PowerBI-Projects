@@ -102,8 +102,8 @@ With the preprocessing of data, using DAX measures have created Interactive dash
 ---
 
 ## Contact 🤝
-👤 GitHub: [ARUNPANDIYAN-RA](https://github.com/ARUNPANDIYAN-RA)
-👔 LinkedIn: [ArunPandiyan R A](https://www.linkedin.com/in/arunpandiyanofficial/)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) : [ARUNPANDIYAN-RA](https://github.com/ARUNPANDIYAN-RA)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) : [ArunPandiyan R A](https://www.linkedin.com/in/arunpandiyanofficial/)
 📧 Email: arunpandiyan164@gmail.com
 
 ---
